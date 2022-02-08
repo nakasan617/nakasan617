@@ -1,3 +1,6 @@
+<p align='center'>
+<a href="https://www.linkedin.com/in/yuta-nakamura-93b9b778/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
 
 # PROFILE #
 
