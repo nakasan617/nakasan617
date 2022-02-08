@@ -8,7 +8,7 @@
 # PROFILE #
 
 Hello this is Yuta Nakamura. I am a Ph.D. candidate at DePaul University (almost in the 3rd year).
-I have an enormous curiosity out in this world, and wish to create a business that would be change the game in some industries. 
+I have an enormous curiosity out in this world, and wish to create a business that would be change the paradigm. 
 
 # RESEARCH #
 
@@ -34,5 +34,5 @@ As I was to implement Merkle tree in [Sciunit](https://sciunit.run/), I realized
 
 I love studying and playing chess and other strategic board games, so if you are interested, befriend me and play against me! 
 
-[chess.com link](https://www.chess.com/member/nakasan6)
+[Link to chess.com](https://www.chess.com/member/nakasan6)
 
