@@ -10,6 +10,15 @@ I am currently in computer systems, which does things related to compilers, oper
 
 I love research in a sense that I get to control what I do at my own time schedule, though sometimes it gets packed before the deadlines. 
 
+## PUBLISHED WORK ##
+
+Below are the published work I have so far
+
+### Content Defined Merkle Tree ###
+As I was to implement Merkle tree in [Sciunit](https://sciunit.run/), I realized that Merkle tree cannot be used for blocks that are created with Content-Defined Chunking method. Therefore we came up with the idea of CDMT, which does the Content-Defined Chunking in the internal nodes. This data structure is now robust against the chunk-shift, which occurs using the Merkle trees on top of content-defined chunks. 
+
+[Link to CDMT](https://arxiv.org/abs/2104.02158#:~:text=Containerization%20simplifies%20the%20sharing%20and,push%20and%20pull%20container%20images.)
+
 # HOBBIES #
 
 I love studying and playing chess and other strategic board games, so if you are interested, befriend me and play against me! 
