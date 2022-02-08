@@ -8,7 +8,7 @@
 # PROFILE #
 
 Hello this is Yuta Nakamura. I am a Ph.D. candidate at DePaul University (almost in the 3rd year).
-I have an enormous curiosity out in this world, and wish to create a business that would be change the paradigm. 
+I have an enormous curiosity out in this world, and wish to create a business that would change the paradigm. 
 
 # RESEARCH #
 
