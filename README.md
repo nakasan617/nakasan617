@@ -19,6 +19,11 @@ As I was to implement Merkle tree in [Sciunit](https://sciunit.run/), I realized
 
 [Link to CDMT](https://arxiv.org/abs/2104.02158#:~:text=Containerization%20simplifies%20the%20sharing%20and,push%20and%20pull%20container%20images.)
 
+### Efficient Provenance Alignment in Reproduced Executions ###
+[SPADE](https://github.com/ashish-gehani/SPADE) and Sciunit use system calls to trace the provenance of the executions. Therefore this is our first attempt to look at the system call trace to make sure the two executions are aligned. 
+
+[Link to Provenance Alignment](https://www.usenix.org/conference/tapp2020/presentation/nakamura)
+
 # HOBBIES #
 
 I love studying and playing chess and other strategic board games, so if you are interested, befriend me and play against me! 
