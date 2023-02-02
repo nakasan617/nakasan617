@@ -20,15 +20,24 @@ I love research in a sense that I get to control what I do at my own time schedu
 
 Below are the published work I have so far
 
+### Provenance-based Workflow Diagnostics Using Program Specification ###
+To increase the repeatability of the workflow system, we have created a tool called ProvScope. Whenever some workflow executions show unexpected outputs, ProvScope compares with same workflow with expected outputs (from a different input) to narrow down the bugs of the workflows. ProvScope uses program specifications to precisely find the points of divergence of the executions, and to deal with the path explosion problem to identify the path in the program specifications from traces, function call traces are used in a hierarchical manner to reduce the search space.
+
+Published in HiPC 2022
+
 ### Content Defined Merkle Tree (2021) ###
 As I was to implement Merkle tree in [Sciunit](https://sciunit.run/), I realized that Merkle tree cannot be used for blocks that are created with Content-Defined Chunking method. Therefore we came up with the idea of CDMT, which does the Content-Defined Chunking in the internal nodes. This data structure is now robust against the chunk-shift, which occurs using the Merkle trees on top of content-defined chunks. 
 
 [Link to CDMT](https://arxiv.org/abs/2104.02158#:~:text=Containerization%20simplifies%20the%20sharing%20and,push%20and%20pull%20container%20images.)
 
+Published in HiPC 2020
+
 ### Efficient Provenance Alignment in Reproduced Executions (2020) ###
 [SPADE](https://github.com/ashish-gehani/SPADE) and Sciunit use system calls to trace the provenance of the executions. Therefore this is our first attempt to look at the system call trace to make sure the two executions are aligned. 
 
 [Link to Provenance Alignment](https://www.usenix.org/conference/tapp2020/presentation/nakamura)
+
+Published in TaPP 2020
 
 # HOBBIES #
 
