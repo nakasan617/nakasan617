@@ -23,6 +23,8 @@ Below are the published work I have so far
 ### Provenance-based Workflow Diagnostics Using Program Specification ###
 To increase the repeatability of the workflow system, we have created a tool called ProvScope. Whenever some workflow executions show unexpected outputs, ProvScope compares with same workflow with expected outputs (from a different input) to narrow down the bugs of the workflows. ProvScope uses program specifications to precisely find the points of divergence of the executions, and to deal with the path explosion problem to identify the path in the program specifications from traces, function call traces are used in a hierarchical manner to reduce the search space.
 
+[Link to the paper](https://dice.cs.depaul.edu/pdfs/pubs/C32.pdf)
+
 Published in HiPC 2022
 
 ### Content Defined Merkle Tree (2021) ###
@@ -42,6 +44,7 @@ Published in TaPP 2020
 # HOBBIES #
 
 I love studying and playing chess and other strategic board games, so if you are interested, befriend me and play against me! 
+My rating is around 1500 in rapid (10 min) for chess.
 
 [Link to chess.com](https://www.chess.com/member/nakasan6)
 
