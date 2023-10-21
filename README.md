@@ -60,7 +60,7 @@ Published in TaPP 2020
 # HOBBIES #
 
 I love studying and playing chess and other strategic board games, so if you are interested, befriend me and play against me! 
-My rating is around 1500 in rapid (10 min) for chess.
+My highest rating is 1650 for rapid (10 minutes) in chess.com.
 
 [Link to chess.com](https://www.chess.com/member/nakasan6)
 
